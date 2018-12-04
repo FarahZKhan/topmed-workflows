@@ -149,5 +149,5 @@ steps:
 requirements: 
     - class: InlineJavascriptRequirement
 $namespaces:
-  sbg: 'https://sevenbridges.com'
+  sbg: 'https://sevenbridges.com/'
 

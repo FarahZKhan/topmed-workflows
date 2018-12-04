@@ -6,7 +6,7 @@ doc: >-
   https://github.com/statgen/docker-alignment
 label: TOPMed Alignment
 $namespaces:
-  sbg: 'https://sevenbridges.com'
+  sbg: 'https://sevenbridges.com/'
 inputs:
   - id: input_file
     'sbg:fileTypes': CRAM
